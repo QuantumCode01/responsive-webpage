@@ -1,0 +1,20 @@
+
+@media only screen and (max-width: 768px) {
+    .pricing-section{
+        text-align: center;
+    }
+    .container{
+        overflow:auto;
+    }
+
+   
+  }
+
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+         p{
+            font-size:8px;
+
+         }
+    
+   
+  }
